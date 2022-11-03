@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\bin\Debug\net6.0\Ex_6.exe
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\bin\Debug\net6.0\Ex_6.deps.json
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\bin\Debug\net6.0\Ex_6.runtimeconfig.json
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\bin\Debug\net6.0\Ex_6.dll
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\bin\Debug\net6.0\Ex_6.pdb
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.dll
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\refint\Ex_6.dll
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.pdb
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\Ex_6.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Things\Ex_6\Ex_6\obj\Debug\net6.0\ref\Ex_6.dll
