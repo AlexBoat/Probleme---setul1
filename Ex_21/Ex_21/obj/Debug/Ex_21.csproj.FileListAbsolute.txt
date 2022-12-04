@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\bin\Debug\Ex_21.exe.config
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\bin\Debug\Ex_21.exe
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\bin\Debug\Ex_21.pdb
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\obj\Debug\Ex_21.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\obj\Debug\Ex_21.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\obj\Debug\Ex_21.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\obj\Debug\Ex_21.exe
+C:\Users\user\Desktop\C# Things\Ex_21\Ex_21\obj\Debug\Ex_21.pdb
